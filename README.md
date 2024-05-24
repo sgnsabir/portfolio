@@ -4,7 +4,7 @@ Selenium Automation framework<br>
 RestAPI Framework (RestAssured)<br>
 JMeterPractice Project<br><br>
 
-# Soon will be Available: <br>
+# Will be Available soon: <br>
 Appium Mobile Testing framework <br>
 Robot Framework <br>
 Playwright Automation Framework <br>
