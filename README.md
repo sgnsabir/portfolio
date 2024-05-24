@@ -1,4 +1,20 @@
-S G N SABIR<br>
+# In the Portfolio following Demonstration Projects are available <br>
+
+Selenium Automation framework<br>
+RestAPI Framework (RestAssured)<br>
+JMeterPractice Project<br><br>
+
+# Soon will be Available: <br>
+Appium Mobile Testing framework <br>
+Robot Framework <br>
+Playwright Automation Framework <br>
+Cypress Automation Framework <br>
+Protractor Automation Framework <br>
+Database Testing project <br> <br>
+
+# Curriculum Vitae
+
+# S G N SABIR<br>
 ISTQB®️ Certified Test Engineer | Test Automation Engineer<br>
 Ensuring software quality through analytical abilities, critical thinking, and effective communication.<br>
 
