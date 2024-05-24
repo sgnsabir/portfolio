@@ -18,7 +18,7 @@ Database Testing project <br> <br>
 ISTQB®️ Certified Test Engineer | Test Automation Engineer<br>
 Ensuring software quality through analytical abilities, critical thinking, and effective communication.<br>
 
-  sgnsabir@gmail.com        +4746269941        Narvik, Norway           github.com/sgnsabir	   linkedin.com/in/sgnsabir<br>
+  sgnsabir@gmail.com     |   +4746269941   |     Narvik, Norway   |        github.com/sgnsabir	 |  linkedin.com/in/sgnsabir<br>
  
 WORK EXPERIENCE<br>
 Lead Engineer<br>
