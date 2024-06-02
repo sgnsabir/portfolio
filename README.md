@@ -1,13 +1,13 @@
 # In the Portfolio following Demonstration Projects are available <br>
 
 Selenium Automation framework<br>
+Playwright Automation Framework <br>
 RestAPI Framework (RestAssured)<br>
 JMeterPractice Project<br><br>
 
 # Will be Available soon: <br>
 Appium Mobile Testing framework <br>
 Robot Framework <br>
-Playwright Automation Framework <br>
 Cypress Automation Framework <br>
 Protractor Automation Framework <br>
 Database Testing project <br> <br>
