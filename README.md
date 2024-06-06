@@ -3,11 +3,11 @@
 Selenium Automation framework<br>
 Playwright Automation Framework <br>
 RestAPI Framework (RestAssured)<br>
+Robot Framework <br>
 JMeterPractice Project<br><br>
 
 # Will be Available soon: <br>
 Appium Mobile Testing framework <br>
-Robot Framework <br>
 Cypress Automation Framework <br>
 Protractor Automation Framework <br>
 Database Testing project <br> <br>
@@ -20,36 +20,47 @@ Ensuring software quality through analytical abilities, critical thinking, and e
 
   sgnsabir@gmail.com     |   +4746269941   |     Narvik, Norway   |        github.com/sgnsabir	 |  linkedin.com/in/sgnsabir<br>
  
-WORK EXPERIENCE<br>
+<h2>WORK EXPERIENCE</h2><br>
+<b>Major Projects</b>
+<li>Tizen Platform Verification</li>
+<p>In this project is one of the key project of Samsung to establing Tizen platform, In this project I automated Tizen Compliance Test (TCT)</p>
 Lead Engineer<br>
 Samsung R&D Institute Bangladesh<br>
 03/2018 - 07/2022<br><br>
-Major Tasks<br>
-•	Test design, Test implementation and execution by maintaining Agile.<br>
-•	Communicated test results, collaborate with developers to fix bugs, and worked closely with product owners to understand requirements.<br>
-•	Developed Test Automation frameworks from scratch as per project requirement. <br>
-•	Software performance testing including load and stress testing using JMeter. <br><br>
+<b>Major Tasks</b><br>
+<p>
+<li>Communicate test results, collaborate with developers to fix bugs, and worked closely with product owners to understand requirements in Agile environments using BDD.</li>
+<li>Develop Test Automation frameworks from scratch as per project requirement.</li>
+<li>Performance testing using JMeter.</li>
+</p>
 Senior Software Engineer<br>
 Samsung R&D Institute Bangladesh<br>
 03/2015 - 02/2018<br>
 Major Tasks<br>
-•	API testing using Postman and develop automation tool following the structure of Robot framework using Python.<br>
-•	Setup and manage TestNG, CI/CD with Maven, Gradle, Jenkins, Git and Docker based on requirement to perform test automation which increased performance by 70%.<br>
-•	Prepare and execute manual and automated test cases on Tizen SDK, native, web and hybrid apps on Android, iOS, Windows, and Linux platform.<br>
-•	Verifying the output quality of the project with the help of the JIRA system.<br>
+<p>
+•	Rest API testing using Postman and automate using RestAssured and Cucumber BDD framework.
+•	User Interface testing using Selenium with TestNG and Cucumber BDD framework design and develop following Page Object model architecture.
+•	Test process documentation and reporting test status.
+</p>
 Software Engineer<br>
 Samsung R&D Institute Bangladesh<br>
 03/2012 - 02/2015<br>
 Major Tasks<br>
-•	Create and execute Manual test cases on ecommerce sites and Android Mobile apps using Test Rail.<br>
-•	Manual tests on native, web and hybrid applications in Windows, Tizen, Android and iOS platform.<br>
-•	Bug finding and collaborate work with developer to fix bug and maintain Agile in JIRA.<br>
+<p>
+•	Create and execute Manual test cases on native, web and hybrid applications in Windows, Tizen, Android and iOS platform using Test Rail.
+•	Defect management in JIRA and Test status reporting to Team Leader
+</p>
 
-SKILL<br>
-Manual Testing Selenium Appium RestAPI Playwright Cypress Protractor Postman JMeter<br>
-Robot Framework Cucumber (BDD | Gherkin) Testing Framework Design*<br>
-DB Testing (SQL) DevOps(CI/CD:Jenkins) Git Java Java Script NodeJS Typescript Python <br>
-Test Rail JIRA Agile Team Collaboration Documentation (testing traceablity and test guide)<br><br> 
+SKILLS<br>
+<h2>Programming languages</h2>
+<p>Core Java, Javascript, Typescript, Python</p>
+<h2>Test Tools</h2>
+<p>
+  Expereince Based Testing, Selenium, Appium, RestAPI, Cucumber (BDD | Gherkin), Playwright, Cypress, Protractor, Postman, JMeter, Robot Framework, DB Testing (SQL) DevOps(CI/CD:Jenkins), Git.
+</p>
+<h2>Test Management Tools</h2>
+<p>Test Rail JIRA Agile Team Collaboration Documentation (testing traceablity and test guide)</p>
+
 ACHIEVEMENTS<br>
 •	Best App Tester (Tizen)<br>
 •	Software Certificate - Intermediate level<br>
