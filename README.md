@@ -9,7 +9,6 @@ JMeterPractice Project<br><br>
 # Will be Available soon: <br>
 Appium Mobile Testing framework <br>
 Cypress Automation Framework <br>
-Protractor Automation Framework <br>
 Database Testing project <br> <br>
 
 # Curriculum Vitae
@@ -53,7 +52,7 @@ Samsung R&D Institute Bangladesh<br>
 <p>Core Java, Javascript, Typescript, Python</p>
 <b>Test Tools</b>
 <p>
-  Expereince Based Testing, Selenium, Appium, RestAPI, Cucumber (BDD | Gherkin), Playwright, Cypress, Protractor, Postman, JMeter, Robot Framework, DB Testing (SQL) DevOps(CI/CD:Jenkins), Git.
+  Expereince Based Testing, Selenium, Appium, RestAPI, Cucumber (BDD | Gherkin), Playwright, Cypress, Postman, JMeter, Robot Framework, DB Testing (SQL) DevOps(CI/CD:Jenkins), Git.
 </p>
 <b>Test Management Tools</b>
 <p>Test Rail JIRA Agile Team Collaboration Documentation (testing traceablity and test guide)</p>
