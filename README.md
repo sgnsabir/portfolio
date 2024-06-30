@@ -1,7 +1,7 @@
 # In the Portfolio following Demonstration Projects are available <br>
 
-Cypress Automation Framework <br>
 Selenium Automation framework<br>
+Cypress Automation Framework <br>
 Appium Mobile Testing framework <br>
 RestAPI Framework (RestAssured)<br>
 Playwright Automation Framework <br>
